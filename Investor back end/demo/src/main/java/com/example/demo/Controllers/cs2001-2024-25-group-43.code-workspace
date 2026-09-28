@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/cs2001-2024-25-group-43/cs2001-2024-25-group-43"
+		},
+		{
+			"path": "../../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../../Investor Front end"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
